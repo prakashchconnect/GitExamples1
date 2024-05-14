@@ -15,7 +15,9 @@ Create a local repo
 12. git remote add origin https://github.com/prakashchconnect/Project1.git
 13. push the local code to remote repo
 14. git push -u origin master
-=====================================================================
+
+====================================================================
+
 Create a branch and push it to remote
 1. git checkout -b branch1
 2. check bit branch
