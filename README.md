@@ -33,6 +33,7 @@ Create a branch and push it to remote
 12. check the contents in git hub portal -->your branch should be there.(branch1)
 
 ===============================================================================
+
 merge the branch1 to master
 NOTE: 1. i have added a file to branch1 in my local repo
 2. i have added a file to master directly in ui(git hub)
@@ -44,3 +45,13 @@ NOTE: 1. i have added a file to branch1 in my local repo
 5. git checkout branch1
 6. merge the branch1 code to master
 7. git push origin master
+
+=================================================================================
+
+delete branch
+1. delete locally
+2. git branch -D branch3
+3. delete remotely
+4. git push origin :branch2
+5. or
+6. git push origin --delete branch2
