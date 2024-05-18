@@ -55,6 +55,7 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 5. git merge feature1
 6. push the local merge code to remote master branch
 7. git push origin master
+   
 =================================================================================
 
 delete branch
