@@ -46,6 +46,15 @@ NOTE: 1. i have added a file to branch1 in my local repo
 6. merge the branch1 code to master
 7. git push origin master
 
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+1. merge locally to main branch
+2. checkout to master
+3. git checkout master
+4. merge feature branch to master
+5. git merge feature1
+6. push the local merge code to remote master branch
+7. git push origin master
 =================================================================================
 
 delete branch
