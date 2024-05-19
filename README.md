@@ -43,9 +43,7 @@ NOTE: 1. i have added a file to branch1 in my local repo
 5. git checkout branch1
 6. merge the branch1 code to master
 7. git push origin master
-
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-
+   
 <h2>merge locally to main branch</h2>
 2. checkout to master
 3. git checkout master
@@ -54,9 +52,7 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 6. push the local merge code to remote master branch
 7. git push origin master
    
-=================================================================================
-
-delete branch
+<h1>delete branch</h1>
 1. delete locally
 2. git branch -D branch3
 3. delete remotely
