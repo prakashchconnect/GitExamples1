@@ -66,7 +66,7 @@ delete branch
 5. or
 6. git push origin --delete branch2
 
+<h1 style="color:red;">GIT README.MD commands</h1>
 <ul>
-   GIT README.MD commands
    <li>to use formatting use html elements</li>
 </ul>
