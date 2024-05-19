@@ -1,4 +1,4 @@
-Create a local repo
+<h1>Create a local repo</h1>
 ->create a folder(Project1)
 ->go to Project1
 1. git init --> to initiate local repo
@@ -16,9 +16,8 @@ Create a local repo
 13. push the local code to remote repo
 14. git push -u origin master
 
-====================================================================
 
-Create a branch and push it to remote
+<h1>Create a branch and push it to remote</h1>
 1. git checkout -b branch1
 2. check bit branch
 3. git branch
@@ -32,9 +31,8 @@ Create a branch and push it to remote
 11. git push -u origin branch1
 12. check the contents in git hub portal -->your branch should be there.(branch1)
 
-===============================================================================
 
-merge the branch1 to master
+<h1>merge the branch1 to master</h1>
 NOTE: 1. i have added a file to branch1 in my local repo
 2. i have added a file to master directly in ui(git hub)
 
@@ -48,7 +46,7 @@ NOTE: 1. i have added a file to branch1 in my local repo
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
-1. merge locally to main branch
+<h2>merge locally to main branch</h2>
 2. checkout to master
 3. git checkout master
 4. merge feature branch to master
