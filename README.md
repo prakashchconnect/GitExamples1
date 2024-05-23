@@ -53,13 +53,14 @@ NOTE: 1. i have added a file to branch1 in my local repo
 7. git push origin master
    
 <h1>delete branch</h1>
-1. delete locally
-2. git branch -D branch3
-3. delete remotely
-4. git push origin :branch2
-5. or
-6. git push origin --delete branch2
-
+<h3>delete locally</h3>
+<ul>
+<li>git branch -D branch3</li>
+<li>delete remotely</li>
+<li>git push origin :branch2</li>
+<li>or</li>
+<li>git push origin --delete branch2</li>
+</ul>
 <h1 style="color:red;">GIT README.MD commands</h1>
 <ul>
    <li>to use formatting use html elements</li>
