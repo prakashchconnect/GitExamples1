@@ -61,6 +61,10 @@ NOTE: 1. i have added a file to branch1 in my local repo
 <li>or</li>
 <li>git push origin --delete branch2</li>
 </ul>
+<h3>to unstage or remove from git</h3>
+<ul>
+   <li>tests/.ipynb_checkpoints/helpers_tests-checkpoint.py</li>
+</ul>
 <h1 style="color:red;">GIT README.MD commands</h1>
 <ul>
    <li>to use formatting use html elements</li>
